@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: service-c
-        image: shamsmo0h/service-c:latest
+        image: shamsmo0h/service-c:1
         ports:
         - containerPort: 8083
 ---
