@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: service-a
-        image: shamsmo0h/service-a:11
+        image: shamsmo0h/service-a:12
         ports:
         - containerPort: 8081
         readinessProbe:
